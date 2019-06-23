@@ -1,0 +1,62 @@
+body
+{
+
+}
+
+section
+{
+
+}
+.content
+{
+	width: 1266px;
+	margin-right: auto;
+	margin-left: auto;
+	font-style: normal;
+	color: white;
+	font-size: 20px;
+	overflow: hidden;
+
+}
+.row1
+{
+	width: 33%;
+    display: inline-block;
+    padding: 60px 0px;
+    background: #2196f3;
+}
+.row2
+{
+	width: 1263px;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 60px 0px;
+    background: #2196f3;
+}
+.row3
+{
+	width: 49.70%;
+	display: inline-block;
+	margin-top: 10px;
+    padding: 60px 0px;
+    background: #2196f3;
+
+}
+
+.row4
+{
+	width: 65.70%;
+	display: inline-block;
+	margin-top: 10px;
+    padding: 60px 0px;
+    background: #2196f3;
+}
+
+.row4-2
+{
+	width: 16.60%;
+	display: inline-block;
+	margin-top: 10px;
+    padding: 60px 0px;
+    background: #2196f3;
+}
